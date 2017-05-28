@@ -1,0 +1,17 @@
+{
+    "name": "pcf/annotation-serializer",
+    "description": "Easy to use class serializer/deserializer based on Doctrine Annotations",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Paweł Radzikowski",
+            "email": "paw.radzikowski@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^6.1"
+    }
+}
